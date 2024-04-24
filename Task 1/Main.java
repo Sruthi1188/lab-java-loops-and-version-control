@@ -8,7 +8,7 @@ public class Main {
         int small = 2147483647 ;
         for (int i=0; i< number.length; i++) {
 
-            //System.out.println(number[i]);
+            //System.out.println(number[i])ksdksdk
             if(number[i]>big)
             {
                 big = number[i];
