@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
 
         int[] number = {2,4,7,2,5};
